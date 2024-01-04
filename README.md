@@ -7,15 +7,15 @@ This 'pocket reference' self-study guide on LLMs is tailored for ML/AI Scientist
 <details>
   <summary>Mind Map View</summary>
   
-  <!-- ![image](https://github.com/iamaziz/LLMs-study-guide/assets/3298308/424108c5-52a1-4184-b415-9498865aff9e) -->
-  ![image](https://github.com/iamaziz/LLMs-Guidebook-for-Scientists-and-Engineers/assets/3298308/8a6d92ce-2b82-4017-81a7-ee56225d5075)
+  ![image](https://github.com/iamaziz/LLMs-guidebook-for-engineers-and-scientists/assets/3298308/0d04608b-4c07-4385-9163-310c47ffc628)
 
-  
 </details>
 
 <details>
   <summary>Diagram View</summary>
-  <img width="1299" alt="image" src="https://github.com/iamaziz/LLMs-study-guide/assets/3298308/12ecbeb0-d829-4b49-b106-ff8d8628d843">
+  
+  ![image](https://github.com/iamaziz/LLMs-guidebook-for-engineers-and-scientists/assets/3298308/52721d2d-c259-4d6f-b850-9fae4e9d0932)
+
 </details>
 
 
