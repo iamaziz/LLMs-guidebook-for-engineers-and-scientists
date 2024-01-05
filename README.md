@@ -489,14 +489,12 @@ This appendix section provides additional resources, including a glossary of ter
 
 ## 15. LLMs as Agents and Multi-Modal LLMs
 
-<details>
-  <summary>ℹ️ Details</summary>
-
-### Key Concepts
 - **LLMs as Intelligent Agents**: Large Language Models have evolved into intelligent agents that can interact with users and perform tasks beyond text generation.
 - **Multi-Modal LLMs**: The fusion of language understanding with other modalities like images and audio, enabling richer interactions and applications.
 
-### Detailed Explanation
+<details>
+  <summary>ℹ️ Details</summary>
+
 #### LLMs as Intelligent Agents
 Large Language Models, once primarily text generators, have transformed into versatile agents capable of understanding and executing complex tasks. As intelligent agents, they can engage in dynamic conversations, answer questions, and perform actions based on user input.
 
