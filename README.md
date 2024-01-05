@@ -35,7 +35,7 @@ This 'pocket reference' self-study guide on LLMs is tailored for ML/AI Scientist
 - [12. Resources and Tools](#12-resources-and-tools)
 - [13. Case Studies and Practical Examples](#13-case-studies-and-practical-examples)
 - [14. Appendices](#14-appendices)
-- [15. LLMs as Agents and Multi-Modal LLMs](#llms-as-agents-and-multi-modal-llms)
+- [15. LLMs as Agents and Multi-Modal LLMs](#15-llms-as-agents-and-multi-modal-llms)
 - [Summary](#concluding-summary)
 
 
