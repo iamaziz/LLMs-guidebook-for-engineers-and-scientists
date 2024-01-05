@@ -11,7 +11,7 @@ This 'pocket reference' self-study guide on LLMs is tailored for ML/AI Scientist
 
 </details>
 
-<details>
+<details open>
   <summary>Diagram View</summary>
   
   ![image](https://github.com/iamaziz/LLMs-guidebook-for-engineers-and-scientists/assets/3298308/52721d2d-c259-4d6f-b850-9fae4e9d0932)
