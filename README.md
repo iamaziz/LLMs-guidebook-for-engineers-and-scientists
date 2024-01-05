@@ -35,6 +35,7 @@ This 'pocket reference' self-study guide on LLMs is tailored for ML/AI Scientist
 - [12. Resources and Tools](#12-resources-and-tools)
 - [13. Case Studies and Practical Examples](#13-case-studies-and-practical-examples)
 - [14. Appendices](#14-appendices)
+- [15. LLMs as Agents and Multi-Modal LLMs](LLMs-as-Agents-and-Multi-Modal-LLMs)
 - [Summary](#concluding-summary)
 
 
@@ -484,6 +485,49 @@ This section highlights various real-world case studies and practical examples o
 This appendix section provides additional resources, including a glossary of terms and a list of key figures and institutions in the field of LLMs, to enhance the understanding and appreciation of the material covered in the guide.
 
 </details>
+
+
+## 15. LLMs as Agents and Multi-Modal LLMs
+
+<details>
+  <summary>ℹ️ Details</summary>
+
+### Key Concepts
+- **LLMs as Intelligent Agents**: Large Language Models have evolved into intelligent agents that can interact with users and perform tasks beyond text generation.
+- **Multi-Modal LLMs**: The fusion of language understanding with other modalities like images and audio, enabling richer interactions and applications.
+
+### Detailed Explanation
+#### LLMs as Intelligent Agents
+Large Language Models, once primarily text generators, have transformed into versatile agents capable of understanding and executing complex tasks. As intelligent agents, they can engage in dynamic conversations, answer questions, and perform actions based on user input.
+
+**Conversational Agents**: LLMs like GPT-3 have been employed as conversational agents, powering chatbots and virtual assistants. They can hold natural and context-aware conversations, making them valuable for customer support, information retrieval, and even companionship.
+
+**Task Execution**: Beyond conversation, LLMs can execute tasks such as language translation, summarization, code generation, and more. They can be integrated into applications, automating various processes.
+
+**Interactions with Tools**: LLMs can interact with a wide range of tools and services on the internet. For instance, they can perform web searches, answer factual queries, or even assist with online shopping.
+
+#### Multi-Modal LLMs
+Multi-Modal LLMs represent the convergence of different modalities, including text, images, and audio. These models can process and generate content across multiple domains, enabling new possibilities in communication and creativity.
+
+**Text-Image Integration**: Multi-Modal LLMs can analyze both text and images simultaneously. This capability is applied in tasks like image captioning, content generation based on images, and visual question-answering.
+
+**Audio-Text Integration**: Some models can handle audio input and generate text or vice versa. This is valuable for transcription services, voice assistants, and enhancing accessibility.
+
+**Creative Applications**: Multi-Modal LLMs are employed in creative domains such as art, design, and content creation. They can generate image descriptions, create art based on textual prompts, and even compose music.
+
+### Resources for Further Learning
+- "CLIP: Connecting Text and Images for Efficient Lifelong Learning" by Radford et al.
+- "DALL·E: Creating Images from Text" by Ramesh et al.
+- "Scaling Laws for Neural Language Models" by Kaplan et al.
+- "The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence" by Gary Marcus.
+
+---
+
+This section explores the evolving role of Large Language Models as intelligent agents, capable of interacting with users and executing tasks. It also delves into the exciting domain of Multi-Modal LLMs, showcasing their ability to process and generate content across different modalities, ushering in new possibilities in communication and creativity.
+
+</details>
+
+
 
 <hr>
 
